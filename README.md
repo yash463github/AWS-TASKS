@@ -3,6 +3,7 @@
 A collection of essential AWS tasks demonstrating cloud architecture, automation, networking, serverless, monitoring, and data workflows.
 
 📌 Task List & One-Line Descriptions
+
  1)3-Tier Architecture in AWS
  
 ➡️ Designed a scalable Web → App → DB architecture using EC2, Auto Scaling, and RDS.
